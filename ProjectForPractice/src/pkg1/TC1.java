@@ -7,5 +7,6 @@ public class TC1 {
 	@Test
 	public void TestCase1() {
 		System.out.println("I am the test case");
+		System.out.println("Changes done by Amit");
 	}
 }
